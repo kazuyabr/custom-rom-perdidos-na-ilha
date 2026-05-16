@@ -1,2 +1,2 @@
 # custom-rom-perdidos-na-ilha
-Trata-se de uma custom rom para o jogo Joe&amp;Mac 2 sob encomenda de meu cliente.
+Este projeto se trata de uma ROM Customizada baseada no jogo de SNES Joe&amp;Mac 2.
